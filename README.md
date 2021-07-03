@@ -4,11 +4,11 @@ Contribution in Basic C-Sharp under DevIncept 30-DAYS CONTRIBUTOR PROGRAM.
 ### Module 1
 
 > Basic Concepts and Terminology in C#
+
   1. Introduction To C#
-    i.    What is C# ?
-    ii.   C# vs Java.
-    iii.  C# History, Features.
-  
+     * What is C# ?
+     * C# vs Java.
+     * C# History, Features.
   2. C# Variables 
   3. C# Data Types
   4. C# Operators
@@ -31,13 +31,13 @@ Contribution in Basic C-Sharp under DevIncept 30-DAYS CONTRIBUTOR PROGRAM.
 >  Array, Functions
 
   1. Function
-    * Call By Refernce
-    * Call By Value
-    * Out Parameters
+     * Call By Refernce
+     * Call By Value
+     * Out Parameters
   2. Array
-    * Single Dimensional
-    * Multidemiensional
-    * Params  
+     * Single Dimensional
+     * Multidemiensional
+     * Params  
   3. C# String including Functions
     
 ### Module 4
@@ -45,15 +45,16 @@ Contribution in Basic C-Sharp under DevIncept 30-DAYS CONTRIBUTOR PROGRAM.
 >  Class - Objects and Classes
 
   1. Classes and Object
-    * Constructor
-    * Destructor
-    * this
+     * Constructor
+     * Destructor
+     * this
   2. Types of Classes
-    * Static
-    * Sealed
-    * Abstract
+     * Static
+     * Sealed
+     * Abstract
   3. Properties
-    * Normal and Auto-Implemented
+     * Normal
+     * Auto-Implemented
     
 ### Module 5
 
@@ -64,18 +65,18 @@ Contribution in Basic C-Sharp under DevIncept 30-DAYS CONTRIBUTOR PROGRAM.
   
   
   Some Basic Programs For Better Understanding of Above Topics :
-    1.  Fibonacci Series
-    2.  Prime Number
-    3.  Palindrome Number
-    4.  Factorial
-    5.  Armstrong Number
-    6.  Sum of digits
-    7.  Reverse Number
-    8.  Swap Number
-    9.  Decimal to Binary
-    10. Number in Characters
-    11. Alphabet Triangle
-    12. Number Triangle
-    13. Fibonacci Triangle
+  1.  Fibonacci Series
+  2.  Prime Number
+  3.  Palindrome Number
+  4.  Factorial
+  5.  Armstrong Number
+  6.  Sum of digits
+  7.  Reverse Number
+  8.  Swap Number
+  9.  Decimal to Binary
+  10. Number in Characters
+  11. Alphabet Triangle
+  12. Number Triangle
+  13. Fibonacci Triangle
     
 Keep Learning and growing. 
