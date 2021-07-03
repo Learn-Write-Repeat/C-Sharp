@@ -1,5 +1,5 @@
-# C-Sharp Basic
-Contribution in C-Sharp under DevIncept 30-DAYS CONTRIBUTOR PROGRAM.
+# Basic C-Sharp
+Contribution in Basic C-Sharp under DevIncept 30-DAYS CONTRIBUTOR PROGRAM.
 
 ### Module 1
 
