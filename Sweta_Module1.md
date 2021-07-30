@@ -14,13 +14,15 @@ C# is a general-purpose, modern and object-oriented programming [(OOPs)](https:/
 
 - Java doesn’t support for [operator overloading](https://en.wikipedia.org/wiki/Operator_overloading) whereas C# provides [operator overloading](https://en.wikipedia.org/wiki/Operator_overloading) for multiple operators.
 
-``` public static OperatorOverloading operator +(OperatorOverloading a, OperatorOverloading b)
-		{
-			OperatorOverloading c = new OperatorOverloading();
-			c.x = a.x + b.x;
-			c.y = a.y + b.y;
-            c.z = a.z + b.z;
-			return c;
-		}
+``` 
+public static OperatorOverloading operator +(OperatorOverloading a, OperatorOverloading b)
+	{
+		OperatorOverloading c = new OperatorOverloading();
+		c.x = a.x + b.x;
+		c.y = a.y + b.y;
+        c.z = a.z + b.z;
+		return c;
+	}
+
 ```
 
