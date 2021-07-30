@@ -31,6 +31,11 @@ public static OperatorOverloading operator +(OperatorOverloading a, OperatorOver
 
 | Parameters | Java | c# |
 |------------|------|----|
-| Creation | Designed by Sun Microsystems. | 3 |
+| Creation | Designed by Sun Microsystems. | Designed as part of Microsoft's .NET initiative. |
 | Ecosystem | Has a huge opensource ecosystem. | Used to develop software for Microsoft platforms. |
 | Support for generics | It is implemented using erasures and casts added upon compilation into bytecode. | Integrated into the CLI and allows type information to be available at runtime |
+| Support for delegates | Requires use of an interface to achieve similar functionality. | Has delegates which serve as methods that can be called without knowledge of target object. |
+		
+
+
+
