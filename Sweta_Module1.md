@@ -86,5 +86,5 @@ C# is object oriented programming language. It provides a lot of features that a
 9. Rich Library
 10. Fast speed
 
-<img src="https://user-images.githubusercontent.com/70569920/127698419-73fd9f2b-837b-47e1-8061-e32590794732.png" width="350" height="350" />
+<img src="https://user-images.githubusercontent.com/70569920/127698419-73fd9f2b-837b-47e1-8061-e32590794732.png" width="450" height="450" />
 <!-- ![C#_Features](https://user-images.githubusercontent.com/70569920/127698419-73fd9f2b-837b-47e1-8061-e32590794732.png) -->
