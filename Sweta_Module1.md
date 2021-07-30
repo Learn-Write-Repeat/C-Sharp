@@ -28,7 +28,7 @@ public static OperatorOverloading operator +(OperatorOverloading a, OperatorOver
 - In Java, Arrays are a direct specialization of Object whereas arrays in C# are a specialization of System.
 
 
-| Parameters | Java | c# |
+| **_Parameters_** | **_Java_** | **_C#_** |
 |------------|------|----|
 | **Creation**| Designed by Sun Microsystems.| Designed as part of Microsoft's .NET initiative.|
 | **Ecosystem**| Has a huge opensource ecosystem.| Used to develop software for Microsoft platforms.|
