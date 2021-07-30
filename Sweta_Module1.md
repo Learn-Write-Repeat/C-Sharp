@@ -25,4 +25,12 @@ public static OperatorOverloading operator +(OperatorOverloading a, OperatorOver
 }
 
 ```
+- Java does not support pointers while C# supports pointer only in an unsafe mode.
+- In Java, Arrays are a direct specialization of Object whereas arrays in C# are a specialization of System.
 
+
+| Parameters | Java | c# |
+|------------|------|----|
+| Creation | Designed by Sun Microsystems. | 3 |
+| Ecosystem | Has a huge opensource ecosystem. | Used to develop software for Microsoft platforms. |
+| Support for generics | It is implemented using erasures and casts added upon compilation into bytecode. | Integrated into the CLI and allows type information to be available at runtime |
