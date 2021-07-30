@@ -113,4 +113,7 @@ Data types in C# is mainly divided into three categories
 | long | System.Int64 | signed integer | 64 | -263 to 263-1 | 0L |
 | ushort | System.UInt16 | unsigned integer | 16 | 0 to 65535 | 0 | 
 | ulong | System.UInt64 | unsigned integer | 64 | 0 to 263 | 0 |
-	
+
+- <ins>Floating Point Types</ins>
+
+<!-- https://www.geeksforgeeks.org/c-sharp-data-types/ -->
