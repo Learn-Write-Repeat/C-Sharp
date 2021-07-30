@@ -16,13 +16,13 @@ C# is a general-purpose, modern and object-oriented programming [(OOPs)](https:/
 
 ``` 
 public static OperatorOverloading operator +(OperatorOverloading a, OperatorOverloading b)
-	{
-		OperatorOverloading c = new OperatorOverloading();
-		c.x = a.x + b.x;
-		c.y = a.y + b.y;
-        c.z = a.z + b.z;
-		return c;
-	}
+{
+	OperatorOverloading c = new OperatorOverloading();
+	c.x = a.x + b.x;
+	c.y = a.y + b.y;
+    c.z = a.z + b.z;
+	return c;
+}
 
 ```
 
