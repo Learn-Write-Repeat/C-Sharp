@@ -57,15 +57,18 @@ public static OperatorOverloading operator +(OperatorOverloading a, OperatorOver
 
 The C# language relies on types and methods in what the C# specification defines as a standard library for some of the features. The .NET platform delivers those types and methods in a number of packages.
 
-### [C# version 1.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-10)
-When you go back and look, C# version 1.0, released with Visual Studio .NET 2002, looked a lot like Java. As part of its stated design goals for ECMA, it sought to be a "simple, modern, general-purpose object-oriented language." At the time, looking like Java meant it achieved those early design goals.
-
-### [C# version 1.2](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-12)
-C# version 1.2 shipped with Visual Studio .NET 2003. It contained a few small enhancements to the language. Most notable is that starting with this version, the code generated in a foreach loop called Dispose on an IEnumerator when that IEnumerator implemented IDisposable.
-
-### [C# version 2.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-20)
-While C# may have started as a generic Object-Oriented (OO) language. With generics, types and methods can operate on an arbitrary type while still retaining type safety. Using generics is better than creating a ListInt type that derives from ArrayList or casting from Object for every operation. C# version 2.0 brought iterators. To put it succinctly, iterators let you examine all the items in a List (or other Enumerable types) with a foreach loop.
-
-### [C# version 3.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-30)
+1.  [C# version 1.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-10)
+2.  [C# version 1.2](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-12)
+3.  [C# version 2.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-20)
+4.  [C# version 3.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-30)
+5.  [C# version 4.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-40)
+6.  [C# version 5.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-50)
+7.  [C# version 6.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-60)
+8.  [C# version 7.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-70)
+9.  [C# version 7.1](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-71)
+10. [C# version 7.2](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-72)
+11. [C# version 7.3](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-73)
+12. [C# version 8.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-80)
+13. [C# version 9.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-90)
 
 		
