@@ -71,4 +71,17 @@ The C# language relies on types and methods in what the C# specification defines
 12. [C# version 8.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-80)
 13. [C# version 9.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-90)
 
-		
+## `Features of C#`
+
+C# is object oriented programming language. It provides a lot of features that are given below.
+
+1. Simple
+2. Modern programming language
+3. Object oriented
+4. Type safe
+5. Interoperability
+6. Scalable and Updateable
+7. Component oriented
+8. Structured programming language
+9. Rich Library
+10. Fast speed
