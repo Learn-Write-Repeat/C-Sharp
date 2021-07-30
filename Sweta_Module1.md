@@ -31,26 +31,26 @@ public static OperatorOverloading operator +(OperatorOverloading a, OperatorOver
 
 | Parameters | Java | c# |
 |------------|------|----|
-| Creation| Designed by Sun Microsystems.| Designed as part of Microsoft's .NET initiative.|
-| Ecosystem| Has a huge opensource ecosystem.| Used to develop software for Microsoft platforms.|
-| Support for generics | It is implemented using erasures and casts added upon compilation into bytecode. | Integrated into the CLI and allows type information to be available at runtime|
-| Support for delegates | Requires use of an interface to achieve similar functionality. | Has delegates which serve as methods that can be called without knowledge of target object.|
-|Checked exceptions|Only has one type of exception|Distinguishes between checked and unchecked exceptions|
-|Polymorphism|Invokes the "virtual" keyword in a base class and "override" keyword in a derived class.|Enables polymorphism by default.|
-|Designed for|Java programming language is intended to be run on a Java platform, by the help of Java Runtime Environment (JRE).|The C# programming language is designed to be run on the Common Language Runtime (CLR).|
-|Safety type|Java type safety is safe.|C# type of safety is unsafe.|
-|Built-in Datatype|Built-in data types that are passed by value are called simple types.|Built-in data types that are passed by value are known as primitive types.|
-|Arrays|Arrays in Java are a direct specialization of Object.|Arrays in C# are a specialization of System.|
-|Support for conditional compilation.|Java doesn't provide support for conditional compilation|C# supports conditional compilation feature with the help of preprocessor directives.|
-|Support for Goto statement.|Java doesn't support the goto statement.|C# supports the goto statement.|
-|Structure and unions|Java doesn't support structures and unions.|C# supports structures and unions.|
-|Operator Overloading|No support for operator overloading|C# provides support for operator overloading for multiple operators.|
-|Number of Public Classes|In Java, there is an only a single public class inside source code, or it will display compilation error.|In C#, there are multiple public classes included in the source code.|
-|Pointers|Java does not support pointers.|In C# you can use pointer only in an unsafe mode.|
-|Control for API|It is controlled by an open community process.|Microsoft controls C# API.|
-|Runtime Environment|Java supports JVM(Java Virtual Machine).|C# supports CLR(Common Language Runtime).|
-|Platform Dependency|Java is a robust and platform independent language.|Code written in C# is windows specific.|
-|IDE|Eclipse, NetBeans, IntelliJ IDEA|Visual Studio, MonoDevelop|
+| **Creation**| Designed by Sun Microsystems.| Designed as part of Microsoft's .NET initiative.|
+| **Ecosystem**| Has a huge opensource ecosystem.| Used to develop software for Microsoft platforms.|
+| **Support for generics** | It is implemented using erasures and casts added upon compilation into bytecode. | Integrated into the CLI and allows type information to be available at runtime|
+| **Support for delegates** | Requires use of an interface to achieve similar functionality. | Has delegates which serve as methods that can be called without knowledge of target object.|
+|**Checked exceptions**|Only has one type of exception|Distinguishes between checked and unchecked exceptions|
+|**Polymorphism**|Invokes the "virtual" keyword in a base class and "override" keyword in a derived class.|Enables polymorphism by default.|
+|**Designed for**|Java programming language is intended to be run on a Java platform, by the help of Java Runtime Environment (JRE).|The C# programming language is designed to be run on the Common Language Runtime (CLR).|
+|**Safety type**|Java type safety is safe.|C# type of safety is unsafe.|
+|**Built-in Datatype**|Built-in data types that are passed by value are called simple types.|Built-in data types that are passed by value are known as primitive types.|
+|**Arrays**|Arrays in Java are a direct specialization of Object.|Arrays in C# are a specialization of System.|
+|**Support for conditional compilation**|Java doesn't provide support for conditional compilation|C# supports conditional compilation feature with the help of preprocessor directives.|
+|**Support for Goto statement**|Java doesn't support the goto statement.|C# supports the goto statement.|
+|**Structure and unions**|Java doesn't support structures and unions.|C# supports structures and unions.|
+|**Operator Overloading**|No support for operator overloading|C# provides support for operator overloading for multiple operators.|
+|**Number of Public Classes**|In Java, there is an only a single public class inside source code, or it will display compilation error.|In C#, there are multiple public classes included in the source code.|
+|**Pointers**|Java does not support pointers.|In C# you can use pointer only in an unsafe mode.|
+|**Control for API**|It is controlled by an open community process.|Microsoft controls C# API.|
+|**Runtime Environment**|Java supports JVM(Java Virtual Machine).|C# supports CLR(Common Language Runtime).|
+|**Platform Dependency**|Java is a robust and platform independent language.|Code written in C# is windows specific.|
+|**IDE**|Eclipse, NetBeans, IntelliJ IDEA|Visual Studio, MonoDevelop|
 		
 		
 				
