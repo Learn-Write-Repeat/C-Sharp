@@ -102,6 +102,7 @@ Data types in C# is mainly divided into three categories
 
  In C#, the Value Data Types will directly store the variable value in memory and it will also accept both signed and unsigned literals. The derived class for these data types are System.ValueType. Following are different Value Data Types in C# programming language :
 - <ins>Signed & Unsigned Integral Types</ins>
+
 | Alias | Type Name | Type | Size(bits) | Range | Default Value |
-| ----- | --------- | ---- | ---------- | ----- | ------------- |
+| --- | --- | --- | --- | --- | --- |
 | sbyte | System.Sbyte | signed integer | 8 | -128 to 127 | 0 |
