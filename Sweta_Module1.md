@@ -46,9 +46,12 @@ public static OperatorOverloading operator +(OperatorOverloading a, OperatorOver
 |Structure and unions|Java doesn't support structures and unions.|C# supports structures and unions.|
 |Operator Overloading|No support for operator overloading|C# provides support for operator overloading for multiple operators.|
 |Number of Public Classes|In Java, there is an only a single public class inside source code, or it will display compilation error.|In C#, there are multiple public classes included in the source code.|
+|Pointers|Java does not support pointers.|In C# you can use pointer only in an unsafe mode.|
 |Control for API|It is controlled by an open community process.|Microsoft controls C# API.|
 |Runtime Environment|Java supports JVM(Java Virtual Machine).|C# supports CLR(Common Language Runtime).|
 |Platform Dependency|Java is a robust and platform independent language.|Code written in C# is windows specific.|
+|IDE|Eclipse, NetBeans, IntelliJ IDEA|Visual Studio, MonoDevelop|
+		
 		
 				
 		
