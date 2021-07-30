@@ -20,7 +20,7 @@ public static OperatorOverloading operator +(OperatorOverloading a, OperatorOver
 	OperatorOverloading c = new OperatorOverloading();
 	c.x = a.x + b.x;
 	c.y = a.y + b.y;
-    c.z = a.z + b.z;
+        c.z = a.z + b.z;
 	return c;
 }
 
