@@ -88,7 +88,7 @@ C# is object oriented programming language. It provides a lot of features that a
 <img src="https://user-images.githubusercontent.com/70569920/127698419-73fd9f2b-837b-47e1-8061-e32590794732.png" width="450" height="450" />
 <!-- ![C#_Features](https://user-images.githubusercontent.com/70569920/127698419-73fd9f2b-837b-47e1-8061-e32590794732.png) -->
 
-## Data Types in C#
+## `Data Types in C#`
 
 Data types specify the type of data that a valid C# variable can hold. C# is a strongly typed programming language because in C#, each type of data (such as integer, character, float, and so forth) is predefined as part of the programming language and all constants or variables defined for a given program must be described with one of the data types.
 
