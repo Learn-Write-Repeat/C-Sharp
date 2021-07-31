@@ -98,7 +98,7 @@ Data types in C# is mainly divided into three categories
 - Reference Data Types
 - Pointer Data Type
 
-1. `Value Data Types`
+### 1. `Value Data Types`
 
  In C#, the Value Data Types will directly store the variable value in memory and it will also accept both signed and unsigned literals. The derived class for these data types are System.ValueType. Following are different Value Data Types in C# programming language :
 - <ins>Signed & Unsigned Integral Types</ins>
@@ -139,7 +139,7 @@ Data types in C# is mainly divided into three categories
 | --- | --- | --- |
 | bool | System.Boolean	| True / False |
 
-2. `Reference Data Types`
+### 2. `Reference Data Types`
 
 The Reference Data Types will contain a memory address of variable value because the reference types won’t store the variable value directly in memory. The built-in reference types are `string`, `object`.
 
@@ -153,7 +153,7 @@ The Reference Data Types will contain a memory address of variable value because
 - <ins>Object</ins>
 In C#, all types, predefined and user-defined, reference types and value types, inherit directly or indirectly from Object. So basically it is the base class for all the data types in C#. Before assigning values, it needs type conversion. When a variable of a value type is converted to object, it’s called boxing. When a variable of type object is converted to a value type, it’s called unboxing. Its type name is System.Object.
 
-3. `Pointer Data Types`
+### 3. `Pointer Data Types`
 
 The Pointer Data Types will contain a memory address of the variable value.To get the pointer details we have a two symbols ampersand (&) and asterisk (*).<br>
 `ampersand (&)` : It is Known as Address Operator. It is used to determine the address of a variable.<br>
@@ -217,7 +217,7 @@ In C#, Operators can also categorized based upon Number of Operands :
 - **Binary Operator:** Operator that takes two operands to perform the operation.
 - **Ternary Operator:** Operator that takes three operands to perform the operation.
 
-1. `Arithmetic Operators`
+### 1. `Arithmetic Operators`
 
 - Addition (+)
 - Subtraction (-)
@@ -234,7 +234,7 @@ In C#, Operators can also categorized based upon Number of Operands :
 	- Pre-decrement Operator (--a)
 	- Post-decrement Operator (a--)
 
-2. `Relational Operators`
+### 2. `Relational Operators`
 
 Relational operators are used for comparison of two values.
 
@@ -245,7 +245,7 @@ Relational operators are used for comparison of two values.
 - \>= (Greater Than Equal To)
 - <= (Less Than Equal To)
 
-3. `Logical Operators`
+### 3. `Logical Operators`
 
 They are used to combine two or more conditions/constraints or to complement the evaluation of the original condition in consideration. They are described below:
 
@@ -253,7 +253,7 @@ They are used to combine two or more conditions/constraints or to complement the
 - Logical OR (||)
 - Logical NOT (!)
 
-4. `Bitwise Operators`
+### 4. `Bitwise Operators`
 
 In C#, there are 6 bitwise operators which work at bit level or used to perform bit by bit operations. Following are the bitwise operators :
 
@@ -263,7 +263,7 @@ In C#, there are 6 bitwise operators which work at bit level or used to perform 
 - << (left shift)
 - \>> (right shift)
 
-5. `Assignment Operators`
+### 5. `Assignment Operators`
 
 Assignment operators are used to assigning a value to a variable. The left side operand of the assignment operator is a variable and right side operand of the assignment operator is a value. The value on the right side must be of the same data-type of the variable on the left side otherwise the compiler will raise an error.
 
@@ -333,7 +333,7 @@ Assignment operators are used to assigning a value to a variable. The left side 
 		a |= 2; // Equivalent to a = a | 2
 		```
 
-6. `Conditional Operator`
+### 6. `Conditional Operator`
 
 It is ternary operator which is a shorthand version of if-else statement. It has three operands and hence the name ternary. It will return one of two values depending on the value of a Boolean expression. 
 
