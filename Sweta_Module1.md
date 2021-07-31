@@ -116,4 +116,7 @@ Data types in C# is mainly divided into three categories
 
 - <ins>Floating Point Types</ins>
 
-<!-- https://www.geeksforgeeks.org/c-sharp-data-types/ -->
+| Alias | Type name | Size(bits) | Range (aprox) | Default Value |
+| --- | --- | --- | --- | --- |
+| float | System.Single | 32 | ±1.5 × 10-45 to ±3.4 × 1038 | 0.0F |
+| double | System.Double | 64 |	±5.0 × 10-324 to ±1.7 × 10308 | 0.0D |
