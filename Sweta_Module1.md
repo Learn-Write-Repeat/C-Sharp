@@ -204,8 +204,14 @@ age = 35; // initializing age with value 35
 
 Operators are the foundation of any programming language. Thus the functionality of C# language is incomplete without the use of operators. Operators allow us to perform different kinds of operations on operands. In C#, operators Can be categorized based upon their different functionality :
 
-- **Arithmetic operators** that perform arithmetic operations with numeric operands
-- **Comparison operators** that compare numeric operands
-- **Boolean logical operators** that perform logical operations with bool operands
-- **Bitwise and shift operators** that perform bitwise or shift operations with operands of the integral types
-- **Equality operators** that check if their operands are equal or not
+- **Arithmetic operators** that perform arithmetic operations with numeric operands.
+- **Comparison operators** that compare numeric operands.
+- **Boolean logical operators** that perform logical operations with bool operands.
+- **Bitwise and shift operators** that perform bitwise or shift operations with operands of the integral types.
+- **Equality operators** that check if their operands are equal or not.
+
+In C#, Operators can also categorized based upon Number of Operands : 
+
+- **Unary Operator:** Operator that takes one operand to perform the operation.
+- **Binary Operator:** Operator that takes two operands to perform the operation.
+- **Ternary Operator:** Operator that takes three operands to perform the operation.
