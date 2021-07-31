@@ -215,3 +215,16 @@ In C#, Operators can also categorized based upon Number of Operands :
 - **Unary Operator:** Operator that takes one operand to perform the operation.
 - **Binary Operator:** Operator that takes two operands to perform the operation.
 - **Ternary Operator:** Operator that takes three operands to perform the operation.
+
+1. <ins>Arithmetic Operators</ins>
+
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Modulus (%)
+
+**Unary Operators**
+
+- Increment Operator (++a, a++)
+- Decrement Operator (--a, a--)
