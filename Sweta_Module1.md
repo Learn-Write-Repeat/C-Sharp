@@ -165,7 +165,7 @@ type* identifier;
 ```
 
 
-## Variables in C#
+## `Variables in C#`
 
 A Variable is basically a placeholder of the information which can be changed at runtime. And variables allows to Retrieve and Manipulate the stored information.
 
@@ -200,7 +200,7 @@ age = 35; // initializing age with value 35
 
 **Note: Here the Console.ReadLine() method asks the user to enter the value and later on it puts the same value in the “num” variable. Hence the value will be displayed according to the user input.**
 
-## Operators in C#
+## `Operators in C#`
 
 Operators are the foundation of any programming language. Thus the functionality of C# language is incomplete without the use of operators. Operators allow us to perform different kinds of operations on operands. In C#, operators Can be categorized based upon their different functionality :
 
@@ -217,7 +217,7 @@ In C#, Operators can also categorized based upon Number of Operands :
 - **Binary Operator:** Operator that takes two operands to perform the operation.
 - **Ternary Operator:** Operator that takes three operands to perform the operation.
 
-1. <ins>Arithmetic Operators</ins>
+1. `Arithmetic Operators`
 
 - Addition (+)
 - Subtraction (-)
@@ -234,7 +234,7 @@ In C#, Operators can also categorized based upon Number of Operands :
 	- Pre-decrement Operator (--a)
 	- Post-decrement Operator (a--)
 
-2. <ins>Relational Operators</ins>
+2. `Relational Operators`
 
 Relational operators are used for comparison of two values.
 
