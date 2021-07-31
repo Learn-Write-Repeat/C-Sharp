@@ -244,3 +244,21 @@ Relational operators are used for comparison of two values.
 - < (Less Than)
 - \>= (Greater Than Equal To)
 - <= (Less Than Equal To)
+
+3. `Logical Operators`
+
+They are used to combine two or more conditions/constraints or to complement the evaluation of the original condition in consideration. They are described below:
+
+- Logical AND (&&)
+- Logical OR (||)
+- Logical NOT (!)
+
+4. `Bitwise Operators`
+
+In C#, there are 6 bitwise operators which work at bit level or used to perform bit by bit operations. Following are the bitwise operators :
+
+- & (bitwise AND)
+- | (bitwise OR)
+- ^ (bitwise XOR)
+- << (left shift)
+- \>> (right shift)
