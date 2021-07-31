@@ -175,3 +175,9 @@ type variable_name = value;
 or
 type variable_names;
 ```
+
+**<ins>Rules for Naming Variables</ins>**
+
+- Variable names can contain the letters ‘a-z’ or ’A-Z’ or digits 0-9 as well as the character ‘_’.
+- The name of the variables cannot be started with a digit.
+- The name of the variable cannot be any C# keyword say int, float, null, String, etc.
