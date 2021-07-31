@@ -262,3 +262,47 @@ In C#, there are 6 bitwise operators which work at bit level or used to perform 
 - ^ (bitwise XOR)
 - << (left shift)
 - \>> (right shift)
+
+5. `Assignment Operators`
+
+Assignment operators are used to assigning a value to a variable. The left side operand of the assignment operator is a variable and right side operand of the assignment operator is a value. The value on the right side must be of the same data-type of the variable on the left side otherwise the compiler will raise an error.
+
+- = (Simple Assignment)
+	Example:
+		a = 10;
+
+- += (Add Assignment)
+	Example:
+		a += b; // Equivalent to a = a + b
+
+- -= (Subtract Assignment)
+	Example:
+		a -= b; // Equivalent to a = a - b
+
+- \*= (Multiply Assignment)
+	Example:
+		a *= b // Equivalent to a = a * b
+	
+- /= (Division Assignment)
+	Example:
+		a /= b // Equivalent to a = a / b
+
+- %= (Modulus Assignment)
+	Example:
+		a %= b // Equivalent to a = a % b
+
+- <<= (Left Shift Assignment)
+	Example:
+		a <<= 2 // Equivalent to a = a << 2
+
+- \>>= (Right Shift Assignment)
+	Example:
+		a >>= 2 // Equivalent to a = a >> 2
+
+- &= (Bitwise AND Assignment)
+	Example:
+		a &= 2 // Equivalent to a = a & 2
+
+- ^= (Bitwise Exclusive OR)
+	Example:
+		a ^= 2 // Equivalent to a = a ^ 2
