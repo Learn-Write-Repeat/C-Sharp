@@ -132,3 +132,10 @@ Data types in C# is mainly divided into three categories
 | Alias | Type name | Size In(Bits) | Range | Default value |
 | --- | --- | --- | --- | --- |
 | char | System.Char | 16 | U +0000 to U +ffff | ‘\0’ |
+
+- <ins>Boolean Types</ins>
+
+| Alias | Type name | Values |
+| --- | --- | --- |
+| bool | System.Boolean	| True / False |
+
