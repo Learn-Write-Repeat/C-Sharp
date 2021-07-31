@@ -192,3 +192,10 @@ int length = 20; // Declaring and initializing the variable at same time
 int age; // Declaring variable age
 age = 35; // initializing age with value 35
  ```
+
+**Two Ways for Initialization:**
+
+1. Compile time initialization : It means to provide the value to the variable during the compilation of the program.
+2. Run time initialization :  In this, the user has to enter the value and that value is copied to the required variable.
+
+**Note: Here the Console.ReadLine() method asks the user to enter the value and later on it puts the same value in the “num” variable. Hence the value will be displayed according to the user input.**
