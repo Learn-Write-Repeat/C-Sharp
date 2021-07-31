@@ -204,11 +204,12 @@ age = 35; // initializing age with value 35
 
 Operators are the foundation of any programming language. Thus the functionality of C# language is incomplete without the use of operators. Operators allow us to perform different kinds of operations on operands. In C#, operators Can be categorized based upon their different functionality :
 
-- **Arithmetic operators** that perform arithmetic operations with numeric operands.
-- **Comparison operators** that compare numeric operands.
-- **Boolean logical operators** that perform logical operations with bool operands.
-- **Bitwise and shift operators** that perform bitwise or shift operations with operands of the integral types.
-- **Equality operators** that check if their operands are equal or not.
+1. Arithmetic Operators
+2. Relational Operators
+3. Logical Operators
+4. Bitwise Operators
+5. Assignment Operators
+6. Conditional Operator
 
 In C#, Operators can also categorized based upon Number of Operands : 
 
@@ -232,3 +233,14 @@ In C#, Operators can also categorized based upon Number of Operands :
 - Decrement Operator 
 	- Pre-decrement Operator (--a)
 	- Post-decrement Operator (a--)
+
+2. <ins>Relational Operators</ins>
+
+Relational operators are used for comparison of two values.
+
+- == (Equal To)
+- != (Not Equal To)
+- \> (Greater Than) 
+- < (Less Than)
+- \>= (Greater Than Equal To)
+- <= (Less Than Equal To)
