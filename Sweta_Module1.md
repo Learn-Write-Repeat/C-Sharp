@@ -281,28 +281,28 @@ Assignment operators are used to assigning a value to a variable. The left side 
 
 - \*= (Multiply Assignment)
 	Example:
-		a *= b // Equivalent to a = a * b
+		a *= b; // Equivalent to a = a * b
 	
 - /= (Division Assignment)
 	Example:
-		a /= b // Equivalent to a = a / b
+		a /= b; // Equivalent to a = a / b
 
 - %= (Modulus Assignment)
 	Example:
-		a %= b // Equivalent to a = a % b
+		a %= b; // Equivalent to a = a % b
 
 - <<= (Left Shift Assignment)
 	Example:
-		a <<= 2 // Equivalent to a = a << 2
+		a <<= 2; // Equivalent to a = a << 2
 
 - \>>= (Right Shift Assignment)
 	Example:
-		a >>= 2 // Equivalent to a = a >> 2
+		a >>= 2; // Equivalent to a = a >> 2
 
 - &= (Bitwise AND Assignment)
 	Example:
-		a &= 2 // Equivalent to a = a & 2
+		a &= 2; // Equivalent to a = a & 2
 
 - ^= (Bitwise Exclusive OR)
 	Example:
-		a ^= 2 // Equivalent to a = a ^ 2
+		a ^= 2; // Equivalent to a = a ^ 2
