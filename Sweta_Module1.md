@@ -326,3 +326,18 @@ Assignment operators are used to assigning a value to a variable. The left side 
 		```
 		a ^= 2; // Equivalent to a = a ^ 2
 		```
+
+- |= (Bitwise Inclusive OR)<br>
+	Example :<br>
+		```
+		a |= 2; // Equivalent to a = a | 2
+		```
+
+6. `Conditional Operator`
+
+It is ternary operator which is a shorthand version of if-else statement. It has three operands and hence the name ternary. It will return one of two values depending on the value of a Boolean expression. 
+
+**Syntax:**
+```
+condition ? first_expression : second_expression;
+```
