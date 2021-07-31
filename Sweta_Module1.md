@@ -181,3 +181,14 @@ type variable_names;
 - Variable names can contain the letters ‘a-z’ or ’A-Z’ or digits 0-9 as well as the character ‘_’.
 - The name of the variables cannot be started with a digit.
 - The name of the variable cannot be any C# keyword say int, float, null, String, etc.
+
+**<ins>Initializing Variables</ins>**
+
+ In C# each data type has some default value which is used when there is no explicitly set value for a given variable. Initialization can be done separately or may be with declaration.
+
+ **Example :**
+ ```
+int length = 20; // Declaring and initializing the variable at same time
+int age; // Declaring variable age
+age = 35; // initializing age with value 35
+ ```
