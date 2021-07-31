@@ -199,3 +199,13 @@ age = 35; // initializing age with value 35
 2. Run time initialization :  In this, the user has to enter the value and that value is copied to the required variable.
 
 **Note: Here the Console.ReadLine() method asks the user to enter the value and later on it puts the same value in the “num” variable. Hence the value will be displayed according to the user input.**
+
+## Operators in C#
+
+Operators are the foundation of any programming language. Thus the functionality of C# language is incomplete without the use of operators. Operators allow us to perform different kinds of operations on operands. In C#, operators Can be categorized based upon their different functionality :
+
+- **Arithmetic operators** that perform arithmetic operations with numeric operands
+- **Comparison operators** that compare numeric operands
+- **Boolean logical operators** that perform logical operations with bool operands
+- **Bitwise and shift operators** that perform bitwise or shift operations with operands of the integral types
+- **Equality operators** that check if their operands are equal or not
