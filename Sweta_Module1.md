@@ -120,3 +120,15 @@ Data types in C# is mainly divided into three categories
 | --- | --- | --- | --- | --- |
 | float | System.Single | 32 | ±1.5 × 10-45 to ±3.4 × 1038 | 0.0F |
 | double | System.Double | 64 |	±5.0 × 10-324 to ±1.7 × 10308 | 0.0D |
+
+- <ins>Decimal Types</ins>
+
+| Alias | Type name | Size(bits) | Range (aprox) | Default value |
+| --- | --- | --- | --- | --- |
+| decimal | System.Decimal | 128 | ±1.0 × 10-28 to ±7.9228 × 1028 |	0.0M |
+
+- <ins>Character Types</ins>
+
+| Alias | Type name | Size In(Bits) | Range | Default value |
+| --- | --- | --- | --- | --- |
+| char | System.Char | 16 | U +0000 to U +ffff | ‘\0’ |
