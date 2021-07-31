@@ -267,42 +267,42 @@ In C#, there are 6 bitwise operators which work at bit level or used to perform 
 
 Assignment operators are used to assigning a value to a variable. The left side operand of the assignment operator is a variable and right side operand of the assignment operator is a value. The value on the right side must be of the same data-type of the variable on the left side otherwise the compiler will raise an error.
 
-- = (Simple Assignment)
-	Example:
+- = (Simple Assignment)<br>
+	Example:<br>
 		a = 10;
 
-- += (Add Assignment)
-	Example:
+- += (Add Assignment)<br>
+	Example:<br>
 		a += b; // Equivalent to a = a + b
 
-- -= (Subtract Assignment)
-	Example:
+- -= (Subtract Assignment)<br>
+	Example:<br>
 		a -= b; // Equivalent to a = a - b
 
-- \*= (Multiply Assignment)
-	Example:
+- \*= (Multiply Assignment)<br>
+	Example:<br>
 		a *= b; // Equivalent to a = a * b
 	
-- /= (Division Assignment)
-	Example:
+- /= (Division Assignment)<br>
+	Example:<br>
 		a /= b; // Equivalent to a = a / b
 
-- %= (Modulus Assignment)
-	Example:
+- %= (Modulus Assignment)<br>
+	Example:<br>
 		a %= b; // Equivalent to a = a % b
 
-- <<= (Left Shift Assignment)
-	Example:
+- <<= (Left Shift Assignment)<br>
+	Example:<br>
 		a <<= 2; // Equivalent to a = a << 2
 
-- \>>= (Right Shift Assignment)
-	Example:
+- \>>= (Right Shift Assignment)<br>
+	Example:<br>
 		a >>= 2; // Equivalent to a = a >> 2
 
-- &= (Bitwise AND Assignment)
-	Example:
+- &= (Bitwise AND Assignment)<br>
+	Example:<br>
 		a &= 2; // Equivalent to a = a & 2
 
-- ^= (Bitwise Exclusive OR)
-	Example:
+- ^= (Bitwise Exclusive OR)<br>
+	Example:<br>
 		a ^= 2; // Equivalent to a = a ^ 2
