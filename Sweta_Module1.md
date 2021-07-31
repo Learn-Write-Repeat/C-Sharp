@@ -158,3 +158,8 @@ In C#, all types, predefined and user-defined, reference types and value types, 
 The Pointer Data Types will contain a memory address of the variable value.To get the pointer details we have a two symbols ampersand (&) and asterisk (*).<br>
 `ampersand (&)` : It is Known as Address Operator. It is used to determine the address of a variable.<br>
 `asterisk (*)`  : It also known as Indirection Operator. It is used to access the value of an address.
+
+**Syntax :**
+```
+type* identifier;
+```
