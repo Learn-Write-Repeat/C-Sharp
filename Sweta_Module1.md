@@ -226,5 +226,9 @@ In C#, Operators can also categorized based upon Number of Operands :
 
 **Unary Operators**
 
-- Increment Operator (++a, a++)
-- Decrement Operator (--a, a--)
+- Increment Operator 
+	- Pre-increment Operator (++a)
+	- Post-increment Operator (a++)
+- Decrement Operator 
+	- Pre-decrement Operator (--a)
+	- Post-decrement Operator (a--)
