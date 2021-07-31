@@ -139,3 +139,22 @@ Data types in C# is mainly divided into three categories
 | --- | --- | --- |
 | bool | System.Boolean	| True / False |
 
+2. `Reference Data Types`
+
+The Reference Data Types will contain a memory address of variable value because the reference types won’t store the variable value directly in memory. The built-in reference types are `string`, `object`.
+
+- <ins>String</ins>
+ It represents a sequence of Unicode characters and its type name is System.String. So, string and String are equivalent.
+ ```
+	string s1 = "Hello"; // creating through string keyword  
+	String s2 = "World!"; // creating through String class 
+ ```
+
+- <ins>Object</ins>
+In C#, all types, predefined and user-defined, reference types and value types, inherit directly or indirectly from Object. So basically it is the base class for all the data types in C#. Before assigning values, it needs type conversion. When a variable of a value type is converted to object, it’s called boxing. When a variable of type object is converted to a value type, it’s called unboxing. Its type name is System.Object.
+
+3. `Pointer Data Types`
+
+The Pointer Data Types will contain a memory address of the variable value.To get the pointer details we have a two symbols ampersand (&) and asterisk (*).<br>
+`ampersand (&)` : It is Known as Address Operator. It is used to determine the address of a variable.<br>
+`asterisk (*)`  : It also known as Indirection Operator. It is used to access the value of an address.
