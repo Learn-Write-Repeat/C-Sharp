@@ -168,3 +168,10 @@ type* identifier;
 ## Variables in C#
 
 A Variable is basically a placeholder of the information which can be changed at runtime. And variables allows to Retrieve and Manipulate the stored information.
+
+**Syntax:**
+```
+type variable_name = value; 
+or
+type variable_names;
+```
