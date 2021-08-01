@@ -200,6 +200,14 @@ age = 35; // initializing age with value 35
 
 **Note: Here the Console.ReadLine() method asks the user to enter the value and later on it puts the same value in the “num” variable. Hence the value will be displayed according to the user input.**
 
+### `Implicitly Type Local Variable (var)`
+
+Implicitly typed variables are those variables which are declared without specifying the .NET type explicitly. In implicitly typed variable, the type of the variable is automatically deduced at compile time by the compiler from the value used to initialize the variable. The implicitly typed variable concept is introduced in C# 3.0. The implicitly typed variable is not designed to replace the normal variable declaration, it is designed to handle some special-case situation like LINQ(Language-Integrated Query).
+
+- `Why it is termed Local?`
+Answer: It is not allowed to use var as a parameter value or return type in the method or defining it at class level etc. because the scope of the implicitly typed variable is local.
+
+
 ## `Operators in C#`
 
 Operators are the foundation of any programming language. Thus the functionality of C# language is incomplete without the use of operators. Operators allow us to perform different kinds of operations on operands. In C#, operators Can be categorized based upon their different functionality :
