@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oh37sPLG3MyTn9Ef7Nh+ZEwRXBLoR5BfytRkJfH04ZNwik/o//oUnKJdPd/Fc0FAo/z2IhjNMmCXRP0pgQMdLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Sweta\\Devincept\\C#\\C-Sharp\\Sweta_Codes\\DevinceptCSharp\\ImplicitTypeVariable\\ImplicitTypeVariable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GYAN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\GYAN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\GYAN\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

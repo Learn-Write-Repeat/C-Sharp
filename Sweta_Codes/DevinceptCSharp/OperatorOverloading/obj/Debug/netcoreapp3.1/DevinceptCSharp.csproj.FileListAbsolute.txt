@@ -1,0 +1,13 @@
+C:\Sweta\Devincept\C# Code\DevinceptCSharp\DevinceptCSharp\bin\Debug\netcoreapp3.1\DevinceptCSharp.exe
+C:\Sweta\Devincept\C# Code\DevinceptCSharp\DevinceptCSharp\bin\Debug\netcoreapp3.1\DevinceptCSharp.deps.json
+C:\Sweta\Devincept\C# Code\DevinceptCSharp\DevinceptCSharp\bin\Debug\netcoreapp3.1\DevinceptCSharp.runtimeconfig.json
+C:\Sweta\Devincept\C# Code\DevinceptCSharp\DevinceptCSharp\bin\Debug\netcoreapp3.1\DevinceptCSharp.runtimeconfig.dev.json
+C:\Sweta\Devincept\C# Code\DevinceptCSharp\DevinceptCSharp\bin\Debug\netcoreapp3.1\DevinceptCSharp.dll
+C:\Sweta\Devincept\C# Code\DevinceptCSharp\DevinceptCSharp\bin\Debug\netcoreapp3.1\DevinceptCSharp.pdb
+C:\Sweta\Devincept\C# Code\DevinceptCSharp\DevinceptCSharp\obj\Debug\netcoreapp3.1\DevinceptCSharp.csproj.AssemblyReference.cache
+C:\Sweta\Devincept\C# Code\DevinceptCSharp\DevinceptCSharp\obj\Debug\netcoreapp3.1\DevinceptCSharp.AssemblyInfoInputs.cache
+C:\Sweta\Devincept\C# Code\DevinceptCSharp\DevinceptCSharp\obj\Debug\netcoreapp3.1\DevinceptCSharp.AssemblyInfo.cs
+C:\Sweta\Devincept\C# Code\DevinceptCSharp\DevinceptCSharp\obj\Debug\netcoreapp3.1\DevinceptCSharp.csproj.CoreCompileInputs.cache
+C:\Sweta\Devincept\C# Code\DevinceptCSharp\DevinceptCSharp\obj\Debug\netcoreapp3.1\DevinceptCSharp.dll
+C:\Sweta\Devincept\C# Code\DevinceptCSharp\DevinceptCSharp\obj\Debug\netcoreapp3.1\DevinceptCSharp.pdb
+C:\Sweta\Devincept\C# Code\DevinceptCSharp\DevinceptCSharp\obj\Debug\netcoreapp3.1\DevinceptCSharp.genruntimeconfig.cache
