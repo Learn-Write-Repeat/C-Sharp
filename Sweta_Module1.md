@@ -247,11 +247,7 @@ Value: 01-01-2014, Type: System.DateTime
 | The variable of this type should be initialized at the time of declaration. So that the compiler will decide the type of the variable according to the value it initialized. | The variable of this type need not be initialized at the time of declaration. Because the compiler does not know the type of the variable at compile time. |
 | If the variable does not initialized it throw an error. |	If the variable does not initialized it will not throw an error. |
 | It support intelliSense in visual studio. |	It does not support intelliSense in visual studio |
-| var myvalue = 10; // statement 1
-myvalue = “GeeksforGeeks”; // statement 2
-Here the compiler will throw an error because the compiler has already decided the type of the myvalue variable using statement 1 that is an integer type. When you try to assign a string to myvalue variable, then the compiler will give an error because it violating safety rule type.	dynamic myvalue = 10; | // statement 1
-myvalue = “GeeksforGeeks”; // statement 2
-Here, the compiler will not throw an error though the type of the myvalue is an integer. When you assign a string to myvalue it recreates the type of the myvalue and accepts string without any error. |
+| var myvalue = 10; // statement 1<br>myvalue = “GeeksforGeeks”; // statement 2<br>Here the compiler will throw an error because the compiler has already decided the type of the myvalue variable using statement 1 that is an integer type. When you try to assign a string to myvalue variable, then the compiler will give an error because it violating safety rule type. | dynamic myvalue = 10;  // statement 1<br>myvalue = “GeeksforGeeks”; // statement 2<br>Here, the compiler will not throw an error though the type of the myvalue is an integer. When you assign a string to myvalue it recreates the type of the myvalue and accepts string without any error. |
 | It cannot be used for properties or returning values from the function. It can only used as a local variable in function. | It can be used for properties or returning values from the function. |
 
 ## `Operators in C#`
