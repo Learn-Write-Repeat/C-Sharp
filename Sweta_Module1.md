@@ -206,6 +206,38 @@ Implicitly typed variables are those variables which are declared without specif
 
 - `Why it is termed Local?`
 Answer: It is not allowed to use var as a parameter value or return type in the method or defining it at class level etc. because the scope of the implicitly typed variable is local.
+[Read more](https://www.geeksforgeeks.org/c-sharp-implicitly-typed-local-variables-var/)
+
+### `Dynamic Type Variable`
+
+C# 4.0 (.NET 4.5) introduced a new type called dynamic that avoids compile-time type checking. A dynamic type escapes type checking at compile-time; instead, it resolves type at run time.
+
+A dynamic type variables are defined using the dynamic keyword.The compiler compiles dynamic types into object types in most cases. However, the actual type of a dynamic type variable would be resolved at run-time.
+
+`Example`
+```
+static void Main(string[] args)
+{
+    dynamic MyDynamicVar = 100;
+    Console.WriteLine("Value: {0}, Type: {1}", MyDynamicVar, MyDynamicVar.GetType());
+
+    MyDynamicVar = "Hello World!!";
+    Console.WriteLine("Value: {0}, Type: {1}", MyDynamicVar, MyDynamicVar.GetType());
+
+    MyDynamicVar = true;
+    Console.WriteLine("Value: {0}, Type: {1}", MyDynamicVar, MyDynamicVar.GetType());
+
+    MyDynamicVar = DateTime.Now;
+    Console.WriteLine("Value: {0}, Type: {1}", MyDynamicVar, MyDynamicVar.GetType());
+}
+```
+`Output`
+```
+Value: 100, Type: System.Int32
+Value: Hello World!!, Type: System.String
+Value: True, Type: System.Boolean
+Value: 01-01-2014, Type: System.DateTime
+```
 
 
 ## `Operators in C#`
